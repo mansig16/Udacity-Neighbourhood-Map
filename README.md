@@ -25,4 +25,4 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 To learn React, check out the [React documentation](https://reactjs.org/).
 
 ## References
-youtube walkthroughs and guidance series(https://youtu.be/_1RjbT5dIeM)
+Youtube walkthroughs and guidance series(https://youtu.be/_1RjbT5dIeM)
