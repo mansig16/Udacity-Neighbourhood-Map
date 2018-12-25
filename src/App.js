@@ -9,7 +9,7 @@ class App extends Component {
   //function used to load the map
   renderMap = () =>{
     window.initMap = this.initMap
-    loadScript("https://maps.googleapis.com/maps/api/js?key=AIzaSyChD7W9E_2ufKeIkUQjESam01YC6gCYtyk&callback=initMap");
+    loadScript("https://maps.googleapis.com/maps/api/js?key=""&callback=initMap");
     
   }
 
